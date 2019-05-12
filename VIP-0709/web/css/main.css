@@ -1,0 +1,10 @@
+.tb {
+     width: 90%;
+     border-collapse: collapse;
+ }
+
+.tb th, .tb td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+}
